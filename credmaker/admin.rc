@@ -1,0 +1,7 @@
+export OS_AUTH_URL=admin
+export OS_IDENTITY_API_VERSION=3
+export OS_PROJECT_NAME=jociah
+export OS_PROJECT_DOMAIN_NAME=jociah.com
+export OS_USERNAME=joe
+export OS_USER_DOMAIN_NAME=jociah.com
+export OS_PASSWORD=lafjl;afja;f
